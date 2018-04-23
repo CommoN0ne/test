@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.san.welcome.WelcomeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.367 sec - in edu.san.welcome.WelcomeApplicationTests
